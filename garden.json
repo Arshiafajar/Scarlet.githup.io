@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a1",
+    "type": "flower",
+    "title": "sample: a good day",
+    "date": "2026-11-01",
+    "story": "This is a sample flower. Delete it from write mode and plant your own."
+  },
+  {
+    "id": "a2",
+    "type": "petal",
+    "title": "sample: something lost",
+    "date": "2026-11-05",
+    "story": "A fallen petal is for the things that are gone."
+  },
+  {
+    "id": "a3",
+    "type": "cactus",
+    "title": "sample: something that stung",
+    "date": "2026-11-10",
+    "story": "A cactus is for the things that hurt."
+  },
+  {
+    "id": "a4",
+    "type": "rain",
+    "title": "sample: a rainy day",
+    "date": "2026-11-15",
+    "story": "A raindrop is for the days you cried."
+  }
+]
