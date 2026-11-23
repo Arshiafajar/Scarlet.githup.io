@@ -6,5 +6,7 @@ I usually write my good, bad, happy, sad events in on a page or diary. But I had
 - Rain drop to crying
 - cactus to something that hurt.
 
+There will be more things that I would like to add, but for now this is it. 
+
 I got this idea at around 3 am. No matter how much I tried to sleep, with one foot out of the blanket and one inside, I still couldn't. That's when my genius brain said, "Yeah, let's do one of the most useless things ever to exist."
 So, here we are. I hope you have a good time, going through my daily events 👻 
